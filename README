@@ -1,5 +1,5 @@
 How I configure Nginx to handle multiple apps behind it. 
 
-http://merbunity.com/tutorials/5
+
                                                     
 Includes templates for Merb, Rails, and Sinatra apps.
